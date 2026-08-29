@@ -345,12 +345,13 @@ Console-based hotel management application focused on core programming concepts,
        .github/workflows/snake.yml using https://github.com/Platane/snk
     2. Uncomment the block below once the action has run once
        (it publishes the SVG to an "output" branch).
+       -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Drunknnasty/Drunknnasty/output/github-contribution-grid-snake-dark.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/Drunknnasty/Drunknnasty/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
--->
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=750&animation=twinkling" width="70%"/>
